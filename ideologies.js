@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Centrist Marxism
+        "name": "Centrism",
         "stats": {
             "b1": 50,
             "b2": 50,
@@ -11,8 +11,7 @@ ideologies = [
             "b7": 50,
             "b8": 50
         }
-    }
-];
+    },
     {
         "name": "Marxist Leninism",
         "stats": {
@@ -25,8 +24,8 @@ ideologies = [
             "b7": 40,
             "b8": 50
         }
-    }
-];
+    },
+    {
         "name": "Trotskyism",
         "stats": {
             "b1": 40,
@@ -38,8 +37,8 @@ ideologies = [
             "b7": 25,
             "b8": 25
         }
-    }
-];
+    },
+    {
         "name": "Shachtmanism",
         "stats": {
             "b1": 25,
@@ -51,8 +50,8 @@ ideologies = [
             "b7": 25,
             "b8": 60
         }
-    }
-];
+    },
+    {
         "name": "German National Bolshevism",
         "stats": {
             "b1": 50,
@@ -64,8 +63,8 @@ ideologies = [
             "b7": 50,
             "b8": 25
         }
-    }
-];
+    },
+    {
         "name": "Russian National Bolshevism",
         "stats": {
             "b1": 75,
@@ -77,8 +76,7 @@ ideologies = [
             "b7": 50,
             "b8": 75
         }
-    }
-];
+    },
     {
         "name": "Fabian Socialism",
         "stats": {
@@ -91,8 +89,7 @@ ideologies = [
             "b7": 50,
             "b8": 25
         }
-    }
-];
+    },
     {
         "name": "Eurocommunism",
         "stats": {
@@ -105,8 +102,7 @@ ideologies = [
             "b7": 25,
             "b8": 50
         }
-    }
-];
+    },
     {
         "name": "Sorelianism",
         "stats": {
@@ -119,8 +115,8 @@ ideologies = [
             "b7": 75,
             "b8": 50
         }
-    }
-];
+    },
+    {
         "name": "Arab socialism",
         "stats": {
             "b1": 75,
@@ -132,8 +128,8 @@ ideologies = [
             "b7": 40,
             "b8": 75
         }
-    }
-];
+    },
+    {
         "name": "Blanquism",
         "stats": {
             "b1": 75
@@ -145,9 +141,8 @@ ideologies = [
             "b7": 50,
             "b8": 0
         }
-    }
-];
-
+    },
+    {
         "name": "Orthodox Leninism",
         "stats": {
             "b1": 75,
@@ -159,9 +154,8 @@ ideologies = [
             "b7": 25,
             "b8": 75
         }
-    }
-];
-
+    },
+    {
         "name": "Castroism",
         "stats": {
             "b1": 75,
@@ -173,9 +167,8 @@ ideologies = [
             "b7": 75,
             "b8": 75
         }
-    }
-];
-
+    },
+    {
         "name": "Socialism with a human face",
         "stats": {
             "b1": 25,
@@ -187,9 +180,8 @@ ideologies = [
             "b7": 50,
             "b8": 75
         }
-    }
-];
-
+    },
+    {
         "name": "Guevarism",
         "stats": {
             "b1": 75,
@@ -201,9 +193,8 @@ ideologies = [
             "b7": 50,
             "b8": 75
         }
-    }
-];
-
+    },
+    {
         "name": "African socialism",
         "stats": {
             "b1": 75,
@@ -215,8 +206,8 @@ ideologies = [
             "b7": 75,
             "b8": 75,
         }
-    }
-];
+    },
+    {
         "name": "Ho Chi Minh Thought",
         "stats": {
             "b1": 50,
@@ -228,9 +219,8 @@ ideologies = [
             "b7": 50,
             "b8": 50
         }
-    }
-];
-
+    },
+    {
         "name": "Hoxhaism",
         "stats": {
             "b1": 100,
@@ -242,9 +232,8 @@ ideologies = [
             "b7": 50,
             "b8": 0
         }
-    }
-];
-
+    },
+    {
         "name": "Maoism",
         "stats": {
             "b1": 75,
@@ -256,10 +245,9 @@ ideologies = [
             "b7": 25,
             "b8": 50
         }
-    }
-];
-
-        "name": "American Technocray",
+    },
+    {
+        "name": "American Technocracy",
         "stats": {
             "b1": 0,
             "b2": 100,
@@ -270,10 +258,9 @@ ideologies = [
             "b7": 50,
             "b8": 0
         }
-    }
-];
-
-        "name": "Modern Technocray",
+    },
+    {
+        "name": "Modern Technocracy",
         "stats": {
             "b1": 0,
             "b2": 75,
@@ -284,9 +271,8 @@ ideologies = [
             "b7": 0,
             "b8": 0
         }
-    }
-];
-
+    },
+    {
         "name": "Juche",
         "stats": {
             "b1": 100,
@@ -300,6 +286,3 @@ ideologies = [
         }
     }
 ];
-
-
-

@@ -65,7 +65,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "We cannot afford to let socialism fall into degeneracy.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -169,7 +169,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "The liberation of the working man goes in pair with other rights such as LGBT+.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -273,7 +273,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Sharing one common culture helps for true equality.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -286,7 +286,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "It is in the interest of the people to keep historic heritages.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -377,7 +377,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "There should be a legalization of drugs.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -416,7 +416,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "No technocrat will ever truly represent the people like a revolutionary.",
         "effect": {
             "b1": 1,
             "b2": 0,
@@ -494,7 +494,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Old ways of living are overall more benefitial to the working class.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -572,7 +572,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Agrarian and rural regions are the best to start a revolution in third world countries.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -598,7 +598,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "We must get rid of the traces of past exploitation.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -611,7 +611,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Socialism should avoid becoming a tyranny by majority.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -624,7 +624,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Technocracy is a trap as experts don't care for the population.",
         "effect": {
             "b1": 1,
             "b2": 0,
@@ -650,7 +650,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Socialism in one country, like with Stalin and Kim, is needed to secure our positions.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -663,7 +663,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Violence is needed to fight the bourgeoisie.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -676,7 +676,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "It is better to collectivise cities first, then farming areas.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -702,7 +702,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Religious institutions provide good help to poor workers.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -715,7 +715,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "The populism of Huey Long is the good way to go.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -728,7 +728,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Not everyone is competent enough to lead socialism.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -741,7 +741,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Central planning don't allow for the production of wanted goods for the population.",
         "effect": {
             "b1": 0,
             "b2": -1,
@@ -754,7 +754,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "We should join an international socialist alliance.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -780,7 +780,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Since agricultural exploitation exist since longer, we should get rid of it quicker.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -819,7 +819,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "We need a strong leader to protect the workers.",
         "effect": {
             "b1": 0,
             "b2": 0,

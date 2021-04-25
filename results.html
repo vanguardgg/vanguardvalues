@@ -171,18 +171,18 @@
     ideodist = Infinity
     for (var i = 0; i < ideologies.length; i++) {
         dist = 0
-        dist += Math.abs(ideologies[i].stats.b1 - v1)*1
+        dist += Math.abs(ideologies[i].stats.b1 - v1)*0.75
         dist += Math.abs(ideologies[i].stats.b2 - v3)*1
-        dist += Math.abs(ideologies[i].stats.b3 - v5)*1
-        dist += Math.abs(ideologies[i].stats.b4 - v7)*1
-        dist += Math.abs(ideologies[i].stats.b5 - v9)*1
-        dist += Math.abs(ideologies[i].stats.b6 - v11)*1
-        dist += Math.abs(ideologies[i].stats.b7 - v13)*1
-        dist += Math.abs(ideologies[i].stats.b8 - v15)*1
+        dist += Math.abs(ideologies[i].stats.b3 - v5)*0.8
+        dist += Math.abs(ideologies[i].stats.b4 - v7)*0.5
+        dist += Math.abs(ideologies[i].stats.b5 - v9)*0.25
+        dist += Math.abs(ideologies[i].stats.b6 - v11)*0.25
+        dist += Math.abs(ideologies[i].stats.b7 - v13)*0.5
+        dist += Math.abs(ideologies[i].stats.b8 - v15)*0.25
         if (dist < ideodist) {
             ideology = ideologies[i].name
             ideodist = dist
-            ideomatch = Math.round(100-100*(ideodist/400))
+            ideomatch = Math.round(100-100*(ideodist/215))
         }
     }
     document.getElementById("ideology-label").innerHTML = ideology
@@ -304,6 +304,7 @@
         if (v16 >= 25) {ctx.fillText(v16 + "%", 670, 1072.5)}
 
         ctx.font="300 30px Montserrat"
+	ctx.fillText("Made by Albanian Bat Gaming#4569", 780, 20)
         ctx.textAlign="center"
         ctx.fillText("Leader Axis: " + document.getElementById("b1").innerHTML, 400, 175)
         ctx.fillText("Economic Axis : " + document.getElementById("b2").innerHTML, 400, 295)

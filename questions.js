@@ -312,7 +312,7 @@ questions = [
         }
     },
     {
-        "question": "An engineer knows more than a demagogue how to rule a country.",
+        "question": "An engineer knows more than a demagogue on how to rule a country.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -481,7 +481,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Class divides are way more relevant than social divides.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -585,7 +585,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "We should restrict hate speech for the safety of workers.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -689,7 +689,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Conforming to social norms is important to keep the workers organized properly.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -793,7 +793,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "If different individuals are equal, so should be different cultures.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -806,7 +806,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "The choice to abort or not should be given to women.",
         "effect": {
             "b1": 0,
             "b2": 0,

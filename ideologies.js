@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Centrism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 50,
             "b2": 50,
@@ -13,7 +13,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxist Leninism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 50,
             "b2": 70,
@@ -39,7 +39,7 @@ ideologies = [
         }
     },
     {
-        "name": "Shachtmanism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 25,
             "b2": 50,
@@ -52,7 +52,7 @@ ideologies = [
         }
     },
     {
-        "name": "German National Bolshevism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 50,
             "b2": 75,
@@ -65,7 +65,7 @@ ideologies = [
         }
     },
     {
-        "name": "Russian National Bolshevism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 50,
@@ -78,7 +78,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fabian Socialism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 25,
             "b2": 50,
@@ -91,7 +91,7 @@ ideologies = [
         }
     },
     {
-        "name": "Eurocommunism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 25,
             "b2": 50,
@@ -104,7 +104,7 @@ ideologies = [
         }
     },
     {
-        "name": "Sorelianism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 50,
             "b2": 75,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Arab socialism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 75,
@@ -130,7 +130,7 @@ ideologies = [
         }
     },
     {
-        "name": "Blanquism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 50,
@@ -143,7 +143,7 @@ ideologies = [
         }
     },
     {
-        "name": "Orthodox Leninism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 25,
@@ -156,7 +156,7 @@ ideologies = [
         }
     },
     {
-        "name": "Castroism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 50,
@@ -169,7 +169,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socialism with a human face",
+        "name": "Trotskyism",
         "stats": {
             "b1": 25,
             "b2": 25,
@@ -182,7 +182,7 @@ ideologies = [
         }
     },
     {
-        "name": "Guevarism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 50,
@@ -195,7 +195,7 @@ ideologies = [
         }
     },
     {
-        "name": "African socialism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 50,
@@ -208,7 +208,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ho Chi Minh Thought",
+        "name": "Trotskyism",
         "stats": {
             "b1": 50,
             "b2": 25,
@@ -221,7 +221,7 @@ ideologies = [
         }
     },
     {
-        "name": "Hoxhaism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 100,
             "b2": 100,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Maoism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 100,
@@ -247,7 +247,7 @@ ideologies = [
         }
     },
     {
-        "name": "American Technocracy",
+        "name": "Trotskyism",
         "stats": {
             "b1": 0,
             "b2": 100,
@@ -260,7 +260,7 @@ ideologies = [
         }
     },
     {
-        "name": "Modern Technocracy",
+        "name": "Trotskyism",
         "stats": {
             "b1": 0,
             "b2": 75,
@@ -273,7 +273,7 @@ ideologies = [
         }
     },
     {
-        "name": "Juche",
+        "name": "Trotskyism",
         "stats": {
             "b1": 100,
             "b2": 100,
@@ -286,7 +286,7 @@ ideologies = [
         }
     },
     {
-        "name": "Titoism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 80,
             "b2": 25,
@@ -299,7 +299,7 @@ ideologies = [
         }
     },
     {
-        "name": "Strasserism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 100,
             "b2": 100,
@@ -312,7 +312,7 @@ ideologies = [
         }
     },
     {
-        "name": "Pol Potism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 100,
             "b2": 100,
@@ -325,7 +325,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Socialism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 75,
             "b2": 75,
@@ -338,7 +338,7 @@ ideologies = [
         }
     },
     {
-        "name": "Posadism",
+        "name": "Trotskyism",
         "stats": {
             "b1": 100,
             "b2": 100,
